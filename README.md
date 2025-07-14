@@ -68,14 +68,14 @@ This project performs sentiment analysis on a dataset of **1.6 million tweets** 
 ## 📂 Project Structure
 
 -X-Tweets-Sentiment-Analysis/
--│
--├── sentiment_analysis.ipynb # Jupyter notebook with full ML pipeline
--├── model.pkl # Saved logistic regression model
--├── requirements.txt # Python dependencies
--└── README.md # Project overview
+- │
+- ├── sentiment_analysis.ipynb # Jupyter notebook with full ML pipeline
+- ├── model.pkl # Saved logistic regression model
+- ├── requirements.txt # Python dependencies
+- └── README.md # Project overview
 
 ##📬 Contact
--Author: Rohit Mishra
--📧 Email: rohitmishra5560@gmail.com
--🔗 LinkedIn: [](https://www.linkedin.com/in/rohit-mishra-93s5b/)
+- Author: Rohit Mishra
+- 📧 Email: rohitmishra5560@gmail.com
+- 🔗 LinkedIn: [](https://www.linkedin.com/in/rohit-mishra-93s5b/)
 
