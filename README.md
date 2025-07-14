@@ -77,5 +77,4 @@ This project performs sentiment analysis on a dataset of **1.6 million tweets** 
 ##📬 Contact
 - Author: Rohit Mishra
 - 📧 Email: rohitmishra5560@gmail.com
-- 🔗 LinkedIn: [](https://www.linkedin.com/in/rohit-mishra-93s5b/)
 
