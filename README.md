@@ -18,7 +18,7 @@ This project performs sentiment analysis on a dataset of **1.6 million tweets** 
 ## 🚀 Project Workflow
 
 ### 1. Load Data
-- Dataset downloaded from Kaggle.
+- The dataset was downloaded from Kaggle.
 - Loaded using pandas into a DataFrame.
 
 ### 2. Preprocessing
@@ -32,7 +32,7 @@ This project performs sentiment analysis on a dataset of **1.6 million tweets** 
 - Created new column: `stemmed_content`.
 
 ### 3. Vectorization
-- Used `TfidfVectorizer` to convert cleaned text to numerical format.
+- Used `TfidfVectorizer` to convert cleaned text to a numerical format.
 
 ### 4. Data Split
 - Split into training and testing sets using `train_test_split`.
@@ -67,15 +67,15 @@ This project performs sentiment analysis on a dataset of **1.6 million tweets** 
 
 ## 📂 Project Structure
 
-X-Tweets-Sentiment-Analysis/
-│
-├── sentiment_analysis.ipynb # Jupyter notebook with full ML pipeline
-├── model.pkl # Saved logistic regression model
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
+-X-Tweets-Sentiment-Analysis/
+-│
+-├── sentiment_analysis.ipynb # Jupyter notebook with full ML pipeline
+-├── model.pkl # Saved logistic regression model
+-├── requirements.txt # Python dependencies
+-└── README.md # Project overview
 
 ##📬 Contact
-Author: Rohit Mishra
-📧 Email: rohitmishra5560@gmail.com
-🔗 LinkedIn: [](https://www.linkedin.com/in/rohit-mishra-93s5b/)
+-Author: Rohit Mishra
+-📧 Email: rohitmishra5560@gmail.com
+-🔗 LinkedIn: [](https://www.linkedin.com/in/rohit-mishra-93s5b/)
 
